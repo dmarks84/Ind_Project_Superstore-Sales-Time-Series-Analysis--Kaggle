@@ -6,5 +6,10 @@
 ## Results
 I was able to identify a slight trend and some seasonality to the data as well.  Unforutnatley, once removed, a lot of "noise" was left-- there were no cycles I could identify from using lag features, and the residuals were randomly distributed.  This expected, for the most part, with sales data-- we see some seasonality with quarters and holidays, depending on what is being sold, but there can be any number of reasons why there are spikes or lulls.  
 
+## Screenshots
+![screenshot3](https://github.com/dmarks84/Ind_Project_Superstore-Sales-Time-Series-Analysis--Kaggle/blob/main/superstore_screenshot3.png?raw=true)
+![screenshot2](https://github.com/dmarks84/Ind_Project_Superstore-Sales-Time-Series-Analysis--Kaggle/blob/main/superstore_screenshot2.png?raw=true)
+![screenshot1](https://github.com/dmarks84/Ind_Project_Superstore-Sales-Time-Series-Analysis--Kaggle/blob/main/superstore_screenshot1.png?raw=true)
+
 ## Skills (Developed & Applied)
 Programming, Python, Statistics, Numpy, Pandas, Matplotlib, Scikit-learn, Dataframes, Data Modeling, EDA, Data Visualization, Data Reporting, Time-Series Analysis, Seaborn, Supervised ML, StatsModels
